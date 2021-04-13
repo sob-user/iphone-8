@@ -1,0 +1,149 @@
+body {
+    min-height: 100vh;
+    width: 100vw;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#iphone-8 {
+    height: 158.38mm;
+    width: 78.10mm;
+    display: flex;
+}
+
+#left-buttons{
+    height: 158.38mm;
+    width: 0.42mm;
+}
+
+#ringer-switch {
+    width: 0.42mm;
+    height: 5.61mm;
+    margin-top: 18.86mm;
+    background: #363538;
+}
+
+#volume-button-more {
+    height: 10.62mm;
+    width: 0.40mm;
+    margin-top: 5.85mm;
+    background: #363538;
+}
+
+#volume-button-less {
+    height: 10.62mm;
+    width: 0.40mm;
+    margin-top: 1.99mm;
+    background: #363538;
+}
+
+#coke {
+    width: 77.28mm;
+    height: 158.38mm;
+    border-radius: 10.90mm;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #2b2828;
+}
+
+#glass {
+    width: 74.47mm;
+    height: 154.75mm;
+    border-radius: 8.90mm;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: black
+}
+
+#to-active-area-top {
+    height: 16.605mm;
+    width: 74.47mm;
+    border-top-right-radius: 8.90mm;
+    border-top-left-radius: 8.90mm;
+    display: flex;
+    align-items: center;
+}
+
+#front-camera {
+    height: 2.20mm;
+    width: 2.20mm;
+    border-radius: 8.80mm;
+    margin-left: 25.61mm;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #0c1721;
+}
+
+#lens {
+    height: 1.20mm;
+    width: 1.20mm;
+    border-radius: 4.80mm;
+    background: #1e2931;
+}
+
+#receiver {
+    height: 1.20mm;
+    width: 14.27mm;
+    margin-left: 4.305mm;
+    border-radius: 10px;
+    background: #191d1b;
+}
+
+#active-area {
+    height: 121.54mm;
+    width: 68.36mm;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #171117;
+}
+
+#active-area img {
+    width: 14mm;
+    height: auto;
+}
+
+#to-active-area-bottom {
+    height: 16.605mm;
+    width: 74.47mm;
+    border-bottom-right-radius: 8.90mm;
+    border-bottom-left-radius: 8.90mm;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#home-button {
+    height: 10.90mm;
+    width: 10.90mm;
+    border-radius: 43.6mm;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #131313;
+}
+
+#home-button-reflection {
+    height: 9.90mm;
+    width: 9.90mm;
+    border-radius: 39.6mm;
+    background: #080808;
+}
+
+#right-buttons {
+    height: 158.38mm;
+    width: 0.40mm;
+}
+
+#sleep-wake-button {
+    height: 10.62mm;
+    width: 0.40mm;
+    margin-top: 30.32mm;
+    background: #363538;
+}
